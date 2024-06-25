@@ -13,80 +13,104 @@ use to access the file or folder
 
 ---------------------------------------------
 
-### 3- git clone ( remote Repo's url )
+### 3- touch (file.itsExtension) 
+use to create a new file 
+
+---------------------------------------------
+
+
+### 4- git init 
+use to create a new git repo
+
+
+### 5- git clone ( remote Repo's url )
 use to clone the project from remote Repo and pull last version
 
 ---------------------------------------------
 
 
-### 4- git status
+### 6- git status
 use to show the current status of the local repo
 
 ---------------------------------------------
 
 
-### 5- git add (file name.itsExtention) 
+### 7- git add (file name.itsExtention) 
 use to add files on the stage or we can use git add * to add all files to the stage
 
 ---------------------------------------------
 
 
-### 6- git reset head (file name.itsExtention)
+### 8- git reset head (file name.itsExtention)
 use to remove the file from the stage
 
 ---------------------------------------------
 
 
-### 7- git commit -m "your commit"
+### 9- git commit -m "your commit"
 use to add the files from stage area to local Repo and we can add another file by add it on stage area and add it to local repo by another commit
 
 ---------------------------------------------
 
-### 8 - git branch
+### 10 - git branch
 use to show the all branches' names in your local Repo
 
 ---------------------------------------------
 
-### 9 - git remote -v 
+### 11 - git remote -v 
 use to show the RemoteName and its URL link
 
 
 ---------------------------------------------
 
-### 10 - git push (RemoteName) (LocalName)
+### 12 - git push (RemoteName) (LocalName)
 use to send all changes to Remote Repo
 
 ---------------------------------------------
 
-### 11 - git pull (RemoteName)
+### 13 - git pull (RemoteName)
 use to put all the files and latest version to the local Repo
 
 ---------------------------------------------
 
-### 12 - git config -l
+### 14 - git config -l
 use to show all configuration list 
 
 ---------------------------------------------
 
-### 13 - git config --global (config such as user.name)
+### 15 - git config --global (config such as user.name)
 use to show the value of config which you want it
 
 ---------------------------------------------
 
-### 14 - git config --global (config such as user.name) "your name"
+### 16 - git config --global (config such as user.name) "your name"
 use to set value to the configuration which you write
 
 ---------------------------------------------
 
-### 15 - git config --global --unset (config such as user.name)
+### 17 - git config --global --unset (config such as user.name)
 use to unset the value of configuration
 
 ---------------------------------------------
 
-### touch (file.itsExtension) 
-use to create a new file 
+
+### 18 - git remote add origin (remote repo's url)
+use to connect local repo with remote repo
+
 
 ---------------------------------------------
 
-###
 
+### 19 - git push -u origin (master/main)
+use to pull the latest version of repo and push the local repo
+
+---------------------------------------------
+
+
+### 20 - git config --global alias.(your shortcut) (name of the original commands) put it in double qutation if the command has a space
+use to set shortcut for the commands 
+
+---------------------------------------------
+
+
+###

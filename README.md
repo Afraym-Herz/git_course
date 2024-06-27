@@ -22,6 +22,8 @@ use to create a new file
 ### 4- git init 
 use to create a new git repo
 
+---------------------------------------------
+
 
 ### 5- git clone ( remote Repo's url )
 use to clone the project from remote Repo and pull last version

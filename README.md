@@ -113,4 +113,119 @@ use to set shortcut for the commands
 ---------------------------------------------
 
 
-###
+### 21 - git branch (name of new branch)
+use to create a new branch 
+
+---------------------------------------------
+
+
+### 22 - git checkout (name of branch)
+use to switch to the branch
+
+---------------------------------------------
+
+
+### 23 - git branch -d (name of branch)
+use to delete branch if it hasn't new changes
+
+---------------------------------------------
+
+
+### 24 - git branch -D (name of branch)
+use to delete a branch forces
+
+
+---------------------------------------------
+
+
+### 25 - git checkout -b (name of branch)
+use to create a new branch and switch to it 
+
+---------------------------------------------
+
+
+### 26 - git branch -m (new name)
+use to change the branch name
+
+---------------------------------------------
+
+
+### 27 - git merge (name of branch)
+use to merge the currently branch with the other branch
+
+---------------------------------------------
+
+
+### 28 - git push origin (name of branch)
+use to push to remote Repo but it want to notice you about pull request
+
+---------------------------------------------
+
+
+### 29 - git stash 
+use to put all added file to the stash box 
+
+---------------------------------------------
+
+
+### 30 - git stash list 
+use to show all the stash box contain
+
+---------------------------------------------
+
+
+### 31 - git stash pop 
+use to extract all the stash box contain in the latest command stash
+
+---------------------------------------------
+
+
+### 32 - git stash apply 
+use to extract copy from the latest stash but don't drop the stash
+
+---------------------------------------------
+
+
+### 33 - git stash pop stash@{num of index}
+use to extract all the stash box contain in the stash with special id and that work with apply and drop and show
+
+---------------------------------------------
+
+
+### 34 - git stash drop 
+use to delete the latest stash
+
+---------------------------------------------
+
+
+### 35 - git stash show
+use to show what is the latest stash contain
+
+---------------------------------------------
+
+
+### 36 - git stash clear
+use to delete all the stashs
+
+---------------------------------------------
+
+
+### 37 - git restore --stage (file)
+use to delete the file from the stage and be it untracked
+
+---------------------------------------------
+
+
+### 38 - git log
+use to show all the commit that be written
+
+---------------------------------------------
+
+
+### 39 - git push origin main --force
+use to push the changes and check force
+
+---------------------------------------------
+
+
+### 4
